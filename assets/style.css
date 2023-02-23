@@ -480,6 +480,14 @@ dialog img {
     dialog {
         width: 90%;
     }
+	
+	.social__media {
+		width: 50%;
+	}
+	
+	.social__media .social__link {
+		display: none;
+	}
 }
 
 @media(max-width:540px){
